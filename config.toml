@@ -71,8 +71,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Vive el español con Vivalingua"
-    tagline               = "DISFRUTA DE LA VIDA PLENAMENTE EN ESPAÑA"
+    heading               = "Vive el idioma con Vivalingua"
+    tagline               = "DISFRUTA PLENAMENTE DE LA VIDA"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
